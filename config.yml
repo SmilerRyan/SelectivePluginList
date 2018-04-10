@@ -1,0 +1,10 @@
+###########################################
+# Selective Plugin Hider V1 by SmilerRyan #
+# Hide some (but not all) of your plugins #
+###########################################
+
+hide:
+  - Plugin1
+  - Plugin2
+  - Plugin3
+  - Plugin4

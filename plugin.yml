@@ -1,0 +1,8 @@
+name: SelectivePluginList
+version: 1.0
+description: Hides selected plugins
+author: SmilerRyan
+main: com.SmilerRyan.SelectivePluginList.Main
+commands:
+  spl:
+    description: Show plugin list
