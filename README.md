@@ -13,8 +13,8 @@ This bug is where if a plugin is removed from the server, the plugin must be rem
 In this example, I only have one plugin, but because the config has 4 to be ignored, the plugin count goes to -3.
 
 #More information
-Thank you for downloading my plugin! The command to allow people to view plugins is /spl.
-This plugin will allow you to display your plugins but hide certan ones from appearing.
-If you use my plugin or code, please feel free to donate and subscribe to me.
-https://www.youtube.com/channel/UCUvrwewmRY2H89YBuZ70y5A
-https://paypal.me/smilerryanyt
+Thank you for downloading my plugin! The command to allow people to view plugins is /spl.<br>
+This plugin will allow you to display your plugins but hide certan ones from appearing.<br>
+If you use my plugin or code, please feel free to donate and subscribe to me.<br>
+https://www.youtube.com/channel/UCUvrwewmRY2H89YBuZ70y5A<br>
+https://paypal.me/smilerryanyt<br>
