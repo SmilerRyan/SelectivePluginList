@@ -1,9 +1,8 @@
 # SelectivePluginList
 Show your plugins, but hide some from view.
+Do you want to hide your plugins, but still show some of them? If so, this plugin is for you.<br>
 
 # Information
-Do you want to hide your plugins, but still show some of them? If so, this plugin is for you.<br>
-<br>
 Simply drop it into your plugins folder, and use /spl.<br>
 This is the only command and it has no permissions.<br>
 <br>
