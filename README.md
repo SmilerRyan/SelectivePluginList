@@ -12,12 +12,6 @@ With this plugin, people can trust what you hide because it adds a number of hid
 # Why do I want this?
 This can be useful for a plugin testing server, or generally when you want people to know the plugins but now want to have the chat spammed with plugins.<br>
 
-# Bugs
-Currently there is only one bug, which is a user/config error, which I may fix if I release version 2.<br>
-This bug is where if a plugin is removed from the server, the plugin must be removed from the config as well<br>
-If the plugin(s) are not removed, the plugin counter will still count down.<br>
-In this example, I only have one plugin, but because the config has 4 to be ignored, the plugin count goes to -3.<br>
-
 # More information
 Thank you for downloading my plugin! The command to allow people to view plugins is /spl.<br>
 This plugin will allow you to display your plugins but hide certan ones from appearing.<br>
