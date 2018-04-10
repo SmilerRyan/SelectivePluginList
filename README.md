@@ -1,5 +1,5 @@
 # SelectivePluginList
-Show your plugins, but hide some from view.
+Show your plugins, but hide some from view.<br>
 Do you want to hide your plugins, but still show some of them? If so, this plugin is for you.<br>
 
 # Information
