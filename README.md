@@ -23,4 +23,4 @@ https://paypal.me/smilerryanyt<br>
 
 # FastVPSHost
 This plugin was developed and tested on a [FastVPSHost](https://fastvpshost.com/aff.php?aff=1) Server.<br>
-Use code *smiler* to get 1 month of hosting for free.
+Use code **smiler** to get 1 month of hosting for free.
