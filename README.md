@@ -18,7 +18,3 @@ This plugin will allow you to display your plugins but hide certan ones from app
 If you use my plugin or code, please feel free to donate and subscribe to me.<br>
 https://www.youtube.com/channel/UCUvrwewmRY2H89YBuZ70y5A<br>
 https://paypal.me/smilerryanyt<br>
-
-# FastVPSHost
-This plugin was developed and tested on a [FastVPSHost](https://fastvpshost.com/aff.php?aff=1) Server.<br>
-Use code **smiler** to get 1 month of hosting for free.
